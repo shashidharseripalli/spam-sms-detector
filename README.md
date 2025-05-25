@@ -1,5 +1,5 @@
 # spam-sms-detector
-# 📧 Spam Email Detection with Machine Learning
+# 📧 Spam SMS Detection with Machine Learning
 
 This project builds a machine learning model to classify SMS messages as **Spam** or **Ham** (not spam), using natural language processing and supervised learning techniques.
 
@@ -12,7 +12,7 @@ This project builds a machine learning model to classify SMS messages as **Spam*
 
 ## 📁 Files Included
 
-- `Spam_Email_Detection.ipynb`: Jupyter Notebook containing the full implementation in Python using scikit-learn.
+- `SMS_SPAM_Detection.ipynb`: Jupyter Notebook containing the full implementation in Python using scikit-learn.
 - `README.md`: Project overview and instructions.
 
 ## 🛠️ Technologies Used
@@ -51,5 +51,5 @@ You can run the notebook directly in [Google Colab](https://colab.research.googl
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook Spam_Email_Detection.ipynb
+jupyter notebook SMS_SPAM_Detection.ipynb
 
